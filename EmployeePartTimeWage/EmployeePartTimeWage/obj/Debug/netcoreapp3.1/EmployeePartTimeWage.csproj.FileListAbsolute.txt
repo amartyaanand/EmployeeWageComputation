@@ -1,0 +1,12 @@
+D:\Git Bash\EmployeeWageProblem\EmployeePartTimeWage\EmployeePartTimeWage\bin\Debug\netcoreapp3.1\EmployeePartTimeWage.exe
+D:\Git Bash\EmployeeWageProblem\EmployeePartTimeWage\EmployeePartTimeWage\bin\Debug\netcoreapp3.1\EmployeePartTimeWage.deps.json
+D:\Git Bash\EmployeeWageProblem\EmployeePartTimeWage\EmployeePartTimeWage\bin\Debug\netcoreapp3.1\EmployeePartTimeWage.runtimeconfig.json
+D:\Git Bash\EmployeeWageProblem\EmployeePartTimeWage\EmployeePartTimeWage\bin\Debug\netcoreapp3.1\EmployeePartTimeWage.runtimeconfig.dev.json
+D:\Git Bash\EmployeeWageProblem\EmployeePartTimeWage\EmployeePartTimeWage\bin\Debug\netcoreapp3.1\EmployeePartTimeWage.dll
+D:\Git Bash\EmployeeWageProblem\EmployeePartTimeWage\EmployeePartTimeWage\bin\Debug\netcoreapp3.1\EmployeePartTimeWage.pdb
+D:\Git Bash\EmployeeWageProblem\EmployeePartTimeWage\EmployeePartTimeWage\obj\Debug\netcoreapp3.1\EmployeePartTimeWage.AssemblyInfoInputs.cache
+D:\Git Bash\EmployeeWageProblem\EmployeePartTimeWage\EmployeePartTimeWage\obj\Debug\netcoreapp3.1\EmployeePartTimeWage.AssemblyInfo.cs
+D:\Git Bash\EmployeeWageProblem\EmployeePartTimeWage\EmployeePartTimeWage\obj\Debug\netcoreapp3.1\EmployeePartTimeWage.csproj.CoreCompileInputs.cache
+D:\Git Bash\EmployeeWageProblem\EmployeePartTimeWage\EmployeePartTimeWage\obj\Debug\netcoreapp3.1\EmployeePartTimeWage.dll
+D:\Git Bash\EmployeeWageProblem\EmployeePartTimeWage\EmployeePartTimeWage\obj\Debug\netcoreapp3.1\EmployeePartTimeWage.pdb
+D:\Git Bash\EmployeeWageProblem\EmployeePartTimeWage\EmployeePartTimeWage\obj\Debug\netcoreapp3.1\EmployeePartTimeWage.genruntimeconfig.cache
