@@ -1,0 +1,13 @@
+D:\Git Bash\EmployeeWageProblem\SwitchCaseStatement\SwitchCaseStatement\bin\Debug\netcoreapp3.1\SwitchCaseStatement.exe
+D:\Git Bash\EmployeeWageProblem\SwitchCaseStatement\SwitchCaseStatement\bin\Debug\netcoreapp3.1\SwitchCaseStatement.deps.json
+D:\Git Bash\EmployeeWageProblem\SwitchCaseStatement\SwitchCaseStatement\bin\Debug\netcoreapp3.1\SwitchCaseStatement.runtimeconfig.json
+D:\Git Bash\EmployeeWageProblem\SwitchCaseStatement\SwitchCaseStatement\bin\Debug\netcoreapp3.1\SwitchCaseStatement.runtimeconfig.dev.json
+D:\Git Bash\EmployeeWageProblem\SwitchCaseStatement\SwitchCaseStatement\bin\Debug\netcoreapp3.1\SwitchCaseStatement.dll
+D:\Git Bash\EmployeeWageProblem\SwitchCaseStatement\SwitchCaseStatement\bin\Debug\netcoreapp3.1\SwitchCaseStatement.pdb
+D:\Git Bash\EmployeeWageProblem\SwitchCaseStatement\SwitchCaseStatement\obj\Debug\netcoreapp3.1\SwitchCaseStatement.csprojAssemblyReference.cache
+D:\Git Bash\EmployeeWageProblem\SwitchCaseStatement\SwitchCaseStatement\obj\Debug\netcoreapp3.1\SwitchCaseStatement.AssemblyInfoInputs.cache
+D:\Git Bash\EmployeeWageProblem\SwitchCaseStatement\SwitchCaseStatement\obj\Debug\netcoreapp3.1\SwitchCaseStatement.AssemblyInfo.cs
+D:\Git Bash\EmployeeWageProblem\SwitchCaseStatement\SwitchCaseStatement\obj\Debug\netcoreapp3.1\SwitchCaseStatement.csproj.CoreCompileInputs.cache
+D:\Git Bash\EmployeeWageProblem\SwitchCaseStatement\SwitchCaseStatement\obj\Debug\netcoreapp3.1\SwitchCaseStatement.dll
+D:\Git Bash\EmployeeWageProblem\SwitchCaseStatement\SwitchCaseStatement\obj\Debug\netcoreapp3.1\SwitchCaseStatement.pdb
+D:\Git Bash\EmployeeWageProblem\SwitchCaseStatement\SwitchCaseStatement\obj\Debug\netcoreapp3.1\SwitchCaseStatement.genruntimeconfig.cache
