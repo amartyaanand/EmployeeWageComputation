@@ -1,0 +1,13 @@
+D:\Git Bash\EmployeeWageProblem\EmployeeDailyWage\EmployeeDailyWage\bin\Debug\netcoreapp3.1\EmployeeDailyWage.exe
+D:\Git Bash\EmployeeWageProblem\EmployeeDailyWage\EmployeeDailyWage\bin\Debug\netcoreapp3.1\EmployeeDailyWage.deps.json
+D:\Git Bash\EmployeeWageProblem\EmployeeDailyWage\EmployeeDailyWage\bin\Debug\netcoreapp3.1\EmployeeDailyWage.runtimeconfig.json
+D:\Git Bash\EmployeeWageProblem\EmployeeDailyWage\EmployeeDailyWage\bin\Debug\netcoreapp3.1\EmployeeDailyWage.runtimeconfig.dev.json
+D:\Git Bash\EmployeeWageProblem\EmployeeDailyWage\EmployeeDailyWage\bin\Debug\netcoreapp3.1\EmployeeDailyWage.dll
+D:\Git Bash\EmployeeWageProblem\EmployeeDailyWage\EmployeeDailyWage\bin\Debug\netcoreapp3.1\EmployeeDailyWage.pdb
+D:\Git Bash\EmployeeWageProblem\EmployeeDailyWage\EmployeeDailyWage\obj\Debug\netcoreapp3.1\EmployeeDailyWage.csprojAssemblyReference.cache
+D:\Git Bash\EmployeeWageProblem\EmployeeDailyWage\EmployeeDailyWage\obj\Debug\netcoreapp3.1\EmployeeDailyWage.AssemblyInfoInputs.cache
+D:\Git Bash\EmployeeWageProblem\EmployeeDailyWage\EmployeeDailyWage\obj\Debug\netcoreapp3.1\EmployeeDailyWage.AssemblyInfo.cs
+D:\Git Bash\EmployeeWageProblem\EmployeeDailyWage\EmployeeDailyWage\obj\Debug\netcoreapp3.1\EmployeeDailyWage.csproj.CoreCompileInputs.cache
+D:\Git Bash\EmployeeWageProblem\EmployeeDailyWage\EmployeeDailyWage\obj\Debug\netcoreapp3.1\EmployeeDailyWage.dll
+D:\Git Bash\EmployeeWageProblem\EmployeeDailyWage\EmployeeDailyWage\obj\Debug\netcoreapp3.1\EmployeeDailyWage.pdb
+D:\Git Bash\EmployeeWageProblem\EmployeeDailyWage\EmployeeDailyWage\obj\Debug\netcoreapp3.1\EmployeeDailyWage.genruntimeconfig.cache
