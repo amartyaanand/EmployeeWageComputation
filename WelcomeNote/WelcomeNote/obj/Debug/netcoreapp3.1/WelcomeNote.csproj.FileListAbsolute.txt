@@ -1,0 +1,13 @@
+D:\Git Bash\EmployeeWageProblem\WelcomeNote\WelcomeNote\bin\Debug\netcoreapp3.1\WelcomeNote.exe
+D:\Git Bash\EmployeeWageProblem\WelcomeNote\WelcomeNote\bin\Debug\netcoreapp3.1\WelcomeNote.deps.json
+D:\Git Bash\EmployeeWageProblem\WelcomeNote\WelcomeNote\bin\Debug\netcoreapp3.1\WelcomeNote.runtimeconfig.json
+D:\Git Bash\EmployeeWageProblem\WelcomeNote\WelcomeNote\bin\Debug\netcoreapp3.1\WelcomeNote.runtimeconfig.dev.json
+D:\Git Bash\EmployeeWageProblem\WelcomeNote\WelcomeNote\bin\Debug\netcoreapp3.1\WelcomeNote.dll
+D:\Git Bash\EmployeeWageProblem\WelcomeNote\WelcomeNote\bin\Debug\netcoreapp3.1\WelcomeNote.pdb
+D:\Git Bash\EmployeeWageProblem\WelcomeNote\WelcomeNote\obj\Debug\netcoreapp3.1\WelcomeNote.csprojAssemblyReference.cache
+D:\Git Bash\EmployeeWageProblem\WelcomeNote\WelcomeNote\obj\Debug\netcoreapp3.1\WelcomeNote.AssemblyInfoInputs.cache
+D:\Git Bash\EmployeeWageProblem\WelcomeNote\WelcomeNote\obj\Debug\netcoreapp3.1\WelcomeNote.AssemblyInfo.cs
+D:\Git Bash\EmployeeWageProblem\WelcomeNote\WelcomeNote\obj\Debug\netcoreapp3.1\WelcomeNote.csproj.CoreCompileInputs.cache
+D:\Git Bash\EmployeeWageProblem\WelcomeNote\WelcomeNote\obj\Debug\netcoreapp3.1\WelcomeNote.dll
+D:\Git Bash\EmployeeWageProblem\WelcomeNote\WelcomeNote\obj\Debug\netcoreapp3.1\WelcomeNote.pdb
+D:\Git Bash\EmployeeWageProblem\WelcomeNote\WelcomeNote\obj\Debug\netcoreapp3.1\WelcomeNote.genruntimeconfig.cache
