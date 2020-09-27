@@ -1,0 +1,12 @@
+D:\Git Bash\EmployeeWageProblem\MonthyWages\MonthyWages\bin\Debug\netcoreapp3.1\MonthyWages.exe
+D:\Git Bash\EmployeeWageProblem\MonthyWages\MonthyWages\bin\Debug\netcoreapp3.1\MonthyWages.deps.json
+D:\Git Bash\EmployeeWageProblem\MonthyWages\MonthyWages\bin\Debug\netcoreapp3.1\MonthyWages.runtimeconfig.json
+D:\Git Bash\EmployeeWageProblem\MonthyWages\MonthyWages\bin\Debug\netcoreapp3.1\MonthyWages.runtimeconfig.dev.json
+D:\Git Bash\EmployeeWageProblem\MonthyWages\MonthyWages\bin\Debug\netcoreapp3.1\MonthyWages.dll
+D:\Git Bash\EmployeeWageProblem\MonthyWages\MonthyWages\bin\Debug\netcoreapp3.1\MonthyWages.pdb
+D:\Git Bash\EmployeeWageProblem\MonthyWages\MonthyWages\obj\Debug\netcoreapp3.1\MonthyWages.AssemblyInfoInputs.cache
+D:\Git Bash\EmployeeWageProblem\MonthyWages\MonthyWages\obj\Debug\netcoreapp3.1\MonthyWages.AssemblyInfo.cs
+D:\Git Bash\EmployeeWageProblem\MonthyWages\MonthyWages\obj\Debug\netcoreapp3.1\MonthyWages.csproj.CoreCompileInputs.cache
+D:\Git Bash\EmployeeWageProblem\MonthyWages\MonthyWages\obj\Debug\netcoreapp3.1\MonthyWages.dll
+D:\Git Bash\EmployeeWageProblem\MonthyWages\MonthyWages\obj\Debug\netcoreapp3.1\MonthyWages.pdb
+D:\Git Bash\EmployeeWageProblem\MonthyWages\MonthyWages\obj\Debug\netcoreapp3.1\MonthyWages.genruntimeconfig.cache
