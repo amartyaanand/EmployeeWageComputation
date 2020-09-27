@@ -1,0 +1,13 @@
+D:\Git Bash\EmployeeWageProblem\EmployeeAttendance\EmployeeAttendance\bin\Debug\netcoreapp3.1\EmployeeAttendance.exe
+D:\Git Bash\EmployeeWageProblem\EmployeeAttendance\EmployeeAttendance\bin\Debug\netcoreapp3.1\EmployeeAttendance.deps.json
+D:\Git Bash\EmployeeWageProblem\EmployeeAttendance\EmployeeAttendance\bin\Debug\netcoreapp3.1\EmployeeAttendance.runtimeconfig.json
+D:\Git Bash\EmployeeWageProblem\EmployeeAttendance\EmployeeAttendance\bin\Debug\netcoreapp3.1\EmployeeAttendance.runtimeconfig.dev.json
+D:\Git Bash\EmployeeWageProblem\EmployeeAttendance\EmployeeAttendance\bin\Debug\netcoreapp3.1\EmployeeAttendance.dll
+D:\Git Bash\EmployeeWageProblem\EmployeeAttendance\EmployeeAttendance\bin\Debug\netcoreapp3.1\EmployeeAttendance.pdb
+D:\Git Bash\EmployeeWageProblem\EmployeeAttendance\EmployeeAttendance\obj\Debug\netcoreapp3.1\EmployeeAttendance.csprojAssemblyReference.cache
+D:\Git Bash\EmployeeWageProblem\EmployeeAttendance\EmployeeAttendance\obj\Debug\netcoreapp3.1\EmployeeAttendance.AssemblyInfoInputs.cache
+D:\Git Bash\EmployeeWageProblem\EmployeeAttendance\EmployeeAttendance\obj\Debug\netcoreapp3.1\EmployeeAttendance.AssemblyInfo.cs
+D:\Git Bash\EmployeeWageProblem\EmployeeAttendance\EmployeeAttendance\obj\Debug\netcoreapp3.1\EmployeeAttendance.csproj.CoreCompileInputs.cache
+D:\Git Bash\EmployeeWageProblem\EmployeeAttendance\EmployeeAttendance\obj\Debug\netcoreapp3.1\EmployeeAttendance.dll
+D:\Git Bash\EmployeeWageProblem\EmployeeAttendance\EmployeeAttendance\obj\Debug\netcoreapp3.1\EmployeeAttendance.pdb
+D:\Git Bash\EmployeeWageProblem\EmployeeAttendance\EmployeeAttendance\obj\Debug\netcoreapp3.1\EmployeeAttendance.genruntimeconfig.cache
