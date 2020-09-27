@@ -1,0 +1,12 @@
+D:\Git Bash\EmployeeWageProblem\ConditionalWage\ConditionalWage\bin\Debug\netcoreapp3.1\ConditionalWage.exe
+D:\Git Bash\EmployeeWageProblem\ConditionalWage\ConditionalWage\bin\Debug\netcoreapp3.1\ConditionalWage.deps.json
+D:\Git Bash\EmployeeWageProblem\ConditionalWage\ConditionalWage\bin\Debug\netcoreapp3.1\ConditionalWage.runtimeconfig.json
+D:\Git Bash\EmployeeWageProblem\ConditionalWage\ConditionalWage\bin\Debug\netcoreapp3.1\ConditionalWage.runtimeconfig.dev.json
+D:\Git Bash\EmployeeWageProblem\ConditionalWage\ConditionalWage\bin\Debug\netcoreapp3.1\ConditionalWage.dll
+D:\Git Bash\EmployeeWageProblem\ConditionalWage\ConditionalWage\bin\Debug\netcoreapp3.1\ConditionalWage.pdb
+D:\Git Bash\EmployeeWageProblem\ConditionalWage\ConditionalWage\obj\Debug\netcoreapp3.1\ConditionalWage.AssemblyInfoInputs.cache
+D:\Git Bash\EmployeeWageProblem\ConditionalWage\ConditionalWage\obj\Debug\netcoreapp3.1\ConditionalWage.AssemblyInfo.cs
+D:\Git Bash\EmployeeWageProblem\ConditionalWage\ConditionalWage\obj\Debug\netcoreapp3.1\ConditionalWage.csproj.CoreCompileInputs.cache
+D:\Git Bash\EmployeeWageProblem\ConditionalWage\ConditionalWage\obj\Debug\netcoreapp3.1\ConditionalWage.dll
+D:\Git Bash\EmployeeWageProblem\ConditionalWage\ConditionalWage\obj\Debug\netcoreapp3.1\ConditionalWage.pdb
+D:\Git Bash\EmployeeWageProblem\ConditionalWage\ConditionalWage\obj\Debug\netcoreapp3.1\ConditionalWage.genruntimeconfig.cache
